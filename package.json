@@ -26,7 +26,8 @@
     "url": "git+https://github.com/shyaniv7/react-native-fontawesome-pro.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.3"
+    "@fortawesome/fontawesome": "^1.1.3",
+    "react-native-svg-6.3.1": "https://github.com/bright-systems/react-native-svg-6.3.1"
   },
   "devDependencies": {
     "babel-jest": "22.4.1",
@@ -38,7 +39,6 @@
   "peerDependencies": {
     "react": ">=15.5.0",
     "react-native": ">=0.49.2",
-    "react-native-svg-6.3.1": "https://github.com/bright-systems/react-native-svg-6.3.1",
     "@fortawesome/fontawesome-pro-light": "*",
     "@fortawesome/fontawesome-pro-regular": "*",
     "@fortawesome/fontawesome-pro-solid": "*",
